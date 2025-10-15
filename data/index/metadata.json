@@ -1,0 +1,1171 @@
+[
+  {
+    "id": 0,
+    "title": "Managing High Blood Pressure (Hypertension)",
+    "source": "Hypertension",
+    "text_length": 45,
+    "chunk_index": 0
+  },
+  {
+    "id": 1,
+    "title": "What is Hypertension?",
+    "source": "Hypertension",
+    "text_length": 274,
+    "chunk_index": 1
+  },
+  {
+    "id": 2,
+    "title": "Understanding Blood Pressure Numbers",
+    "source": "Hypertension",
+    "text_length": 265,
+    "chunk_index": 2
+  },
+  {
+    "id": 3,
+    "title": "Risk Factors",
+    "source": "Hypertension",
+    "text_length": 15,
+    "chunk_index": 3
+  },
+  {
+    "id": 4,
+    "title": "Non-modifiable",
+    "source": "Hypertension",
+    "text_length": 179,
+    "chunk_index": 4
+  },
+  {
+    "id": 5,
+    "title": "Modifiable",
+    "source": "Hypertension",
+    "text_length": 170,
+    "chunk_index": 5
+  },
+  {
+    "id": 6,
+    "title": "Lifestyle Modifications",
+    "source": "Hypertension",
+    "text_length": 26,
+    "chunk_index": 6
+  },
+  {
+    "id": 7,
+    "title": "DASH Diet",
+    "source": "Hypertension",
+    "text_length": 197,
+    "chunk_index": 7
+  },
+  {
+    "id": 8,
+    "title": "Physical Activity",
+    "source": "Hypertension",
+    "text_length": 205,
+    "chunk_index": 8
+  },
+  {
+    "id": 9,
+    "title": "Other Lifestyle Changes",
+    "source": "Hypertension",
+    "text_length": 225,
+    "chunk_index": 9
+  },
+  {
+    "id": 10,
+    "title": "Medications",
+    "source": "Hypertension",
+    "text_length": 276,
+    "chunk_index": 10
+  },
+  {
+    "id": 11,
+    "title": "Monitoring at Home",
+    "source": "Hypertension",
+    "text_length": 250,
+    "chunk_index": 11
+  },
+  {
+    "id": 12,
+    "title": "Questions to Ask Your Doctor",
+    "source": "Hypertension",
+    "text_length": 304,
+    "chunk_index": 12
+  },
+  {
+    "id": 13,
+    "title": "Warning Signs of Complications",
+    "source": "Hypertension",
+    "text_length": 209,
+    "chunk_index": 13
+  },
+  {
+    "id": 14,
+    "title": "Prevention",
+    "source": "Hypertension",
+    "text_length": 298,
+    "chunk_index": 14
+  },
+  {
+    "id": 15,
+    "title": "Navigating Health Insurance",
+    "source": "Insurance Navigation",
+    "text_length": 29,
+    "chunk_index": 15
+  },
+  {
+    "id": 16,
+    "title": "Understanding Your Coverage",
+    "source": "Insurance Navigation",
+    "text_length": 30,
+    "chunk_index": 16
+  },
+  {
+    "id": 17,
+    "title": "Key Terms to Know",
+    "source": "Insurance Navigation",
+    "text_length": 392,
+    "chunk_index": 17
+  },
+  {
+    "id": 18,
+    "title": "Types of Plans",
+    "source": "Insurance Navigation",
+    "text_length": 317,
+    "chunk_index": 18
+  },
+  {
+    "id": 19,
+    "title": "Reading Your EOB (Explanation of Benefits)",
+    "source": "Insurance Navigation",
+    "text_length": 45,
+    "chunk_index": 19
+  },
+  {
+    "id": 20,
+    "title": "What's in an EOB",
+    "source": "Insurance Navigation",
+    "text_length": 275,
+    "chunk_index": 20
+  },
+  {
+    "id": 21,
+    "title": "Understanding Charges",
+    "source": "Insurance Navigation",
+    "text_length": 250,
+    "chunk_index": 21
+  },
+  {
+    "id": 22,
+    "title": "Maximizing Your Benefits",
+    "source": "Insurance Navigation",
+    "text_length": 27,
+    "chunk_index": 22
+  },
+  {
+    "id": 23,
+    "title": "Preventive Care",
+    "source": "Insurance Navigation",
+    "text_length": 183,
+    "chunk_index": 23
+  },
+  {
+    "id": 24,
+    "title": "In-Network Providers",
+    "source": "Insurance Navigation",
+    "text_length": 190,
+    "chunk_index": 24
+  },
+  {
+    "id": 25,
+    "title": "Prescription Coverage",
+    "source": "Insurance Navigation",
+    "text_length": 300,
+    "chunk_index": 25
+  },
+  {
+    "id": 26,
+    "title": "Managing Healthcare Costs",
+    "source": "Insurance Navigation",
+    "text_length": 28,
+    "chunk_index": 26
+  },
+  {
+    "id": 27,
+    "title": "Before Services",
+    "source": "Insurance Navigation",
+    "text_length": 269,
+    "chunk_index": 27
+  },
+  {
+    "id": 28,
+    "title": "During Treatment",
+    "source": "Insurance Navigation",
+    "text_length": 253,
+    "chunk_index": 28
+  },
+  {
+    "id": 29,
+    "title": "After Services",
+    "source": "Insurance Navigation",
+    "text_length": 252,
+    "chunk_index": 29
+  },
+  {
+    "id": 30,
+    "title": "Questions to Ask Your Insurance",
+    "source": "Insurance Navigation",
+    "text_length": 34,
+    "chunk_index": 30
+  },
+  {
+    "id": 31,
+    "title": "Coverage Questions",
+    "source": "Insurance Navigation",
+    "text_length": 194,
+    "chunk_index": 31
+  },
+  {
+    "id": 32,
+    "title": "Network Questions",
+    "source": "Insurance Navigation",
+    "text_length": 203,
+    "chunk_index": 32
+  },
+  {
+    "id": 33,
+    "title": "Cost Questions",
+    "source": "Insurance Navigation",
+    "text_length": 185,
+    "chunk_index": 33
+  },
+  {
+    "id": 34,
+    "title": "Common Insurance Problems",
+    "source": "Insurance Navigation",
+    "text_length": 28,
+    "chunk_index": 34
+  },
+  {
+    "id": 35,
+    "title": "Denied Claims",
+    "source": "Insurance Navigation",
+    "text_length": 252,
+    "chunk_index": 35
+  },
+  {
+    "id": 36,
+    "title": "Surprise Bills",
+    "source": "Insurance Navigation",
+    "text_length": 245,
+    "chunk_index": 36
+  },
+  {
+    "id": 37,
+    "title": "High Costs",
+    "source": "Insurance Navigation",
+    "text_length": 281,
+    "chunk_index": 37
+  },
+  {
+    "id": 38,
+    "title": "Special Situations",
+    "source": "Insurance Navigation",
+    "text_length": 21,
+    "chunk_index": 38
+  },
+  {
+    "id": 39,
+    "title": "Chronic Conditions",
+    "source": "Insurance Navigation",
+    "text_length": 257,
+    "chunk_index": 39
+  },
+  {
+    "id": 40,
+    "title": "Mental Health",
+    "source": "Insurance Navigation",
+    "text_length": 259,
+    "chunk_index": 40
+  },
+  {
+    "id": 41,
+    "title": "Resources for Help",
+    "source": "Insurance Navigation",
+    "text_length": 21,
+    "chunk_index": 41
+  },
+  {
+    "id": 42,
+    "title": "Insurance Company",
+    "source": "Insurance Navigation",
+    "text_length": 154,
+    "chunk_index": 42
+  },
+  {
+    "id": 43,
+    "title": "Government Resources",
+    "source": "Insurance Navigation",
+    "text_length": 227,
+    "chunk_index": 43
+  },
+  {
+    "id": 44,
+    "title": "Patient Advocates",
+    "source": "Insurance Navigation",
+    "text_length": 241,
+    "chunk_index": 44
+  },
+  {
+    "id": 45,
+    "title": "Preparing for Your Doctor Visit",
+    "source": "Doctor Visit Prep",
+    "text_length": 33,
+    "chunk_index": 45
+  },
+  {
+    "id": 46,
+    "title": "Before Your Appointment",
+    "source": "Doctor Visit Prep",
+    "text_length": 26,
+    "chunk_index": 46
+  },
+  {
+    "id": 47,
+    "title": "Gather Your Information",
+    "source": "Doctor Visit Prep",
+    "text_length": 298,
+    "chunk_index": 47
+  },
+  {
+    "id": 48,
+    "title": "Organize Your Questions",
+    "source": "Doctor Visit Prep",
+    "text_length": 246,
+    "chunk_index": 48
+  },
+  {
+    "id": 49,
+    "title": "Prepare Your Medical History",
+    "source": "Doctor Visit Prep",
+    "text_length": 175,
+    "chunk_index": 49
+  },
+  {
+    "id": 50,
+    "title": "During Your Appointment",
+    "source": "Doctor Visit Prep",
+    "text_length": 26,
+    "chunk_index": 50
+  },
+  {
+    "id": 51,
+    "title": "Communication Tips",
+    "source": "Doctor Visit Prep",
+    "text_length": 341,
+    "chunk_index": 51
+  },
+  {
+    "id": 52,
+    "title": "Key Questions to Ask",
+    "source": "Doctor Visit Prep",
+    "text_length": 265,
+    "chunk_index": 52
+  },
+  {
+    "id": 53,
+    "title": "Understanding Your Diagnosis",
+    "source": "Doctor Visit Prep",
+    "text_length": 190,
+    "chunk_index": 53
+  },
+  {
+    "id": 54,
+    "title": "After Your Appointment",
+    "source": "Doctor Visit Prep",
+    "text_length": 25,
+    "chunk_index": 54
+  },
+  {
+    "id": 55,
+    "title": "Follow-Up Actions",
+    "source": "Doctor Visit Prep",
+    "text_length": 254,
+    "chunk_index": 55
+  },
+  {
+    "id": 56,
+    "title": "When to Call Back",
+    "source": "Doctor Visit Prep",
+    "text_length": 186,
+    "chunk_index": 56
+  },
+  {
+    "id": 57,
+    "title": "Making the Most of Limited Time",
+    "source": "Doctor Visit Prep",
+    "text_length": 34,
+    "chunk_index": 57
+  },
+  {
+    "id": 58,
+    "title": "Prioritize Your Concerns",
+    "source": "Doctor Visit Prep",
+    "text_length": 157,
+    "chunk_index": 58
+  },
+  {
+    "id": 59,
+    "title": "Bring Support",
+    "source": "Doctor Visit Prep",
+    "text_length": 163,
+    "chunk_index": 59
+  },
+  {
+    "id": 60,
+    "title": "Special Considerations",
+    "source": "Doctor Visit Prep",
+    "text_length": 25,
+    "chunk_index": 60
+  },
+  {
+    "id": 61,
+    "title": "For New Patients",
+    "source": "Doctor Visit Prep",
+    "text_length": 175,
+    "chunk_index": 61
+  },
+  {
+    "id": 62,
+    "title": "For Chronic Conditions",
+    "source": "Doctor Visit Prep",
+    "text_length": 170,
+    "chunk_index": 62
+  },
+  {
+    "id": 63,
+    "title": "Insurance and Costs",
+    "source": "Doctor Visit Prep",
+    "text_length": 22,
+    "chunk_index": 63
+  },
+  {
+    "id": 64,
+    "title": "Before Your Visit",
+    "source": "Doctor Visit Prep",
+    "text_length": 173,
+    "chunk_index": 64
+  },
+  {
+    "id": 65,
+    "title": "Questions About Costs",
+    "source": "Doctor Visit Prep",
+    "text_length": 285,
+    "chunk_index": 65
+  },
+  {
+    "id": 66,
+    "title": "Understanding Your Test Results",
+    "source": "Test Results",
+    "text_length": 33,
+    "chunk_index": 66
+  },
+  {
+    "id": 67,
+    "title": "Common Blood Tests",
+    "source": "Test Results",
+    "text_length": 21,
+    "chunk_index": 67
+  },
+  {
+    "id": 68,
+    "title": "Complete Blood Count (CBC)",
+    "source": "Test Results",
+    "text_length": 249,
+    "chunk_index": 68
+  },
+  {
+    "id": 69,
+    "title": "Basic Metabolic Panel (BMP)",
+    "source": "Test Results",
+    "text_length": 240,
+    "chunk_index": 69
+  },
+  {
+    "id": 70,
+    "title": "Lipid Panel",
+    "source": "Test Results",
+    "text_length": 225,
+    "chunk_index": 70
+  },
+  {
+    "id": 71,
+    "title": "Understanding Normal Ranges",
+    "source": "Test Results",
+    "text_length": 30,
+    "chunk_index": 71
+  },
+  {
+    "id": 72,
+    "title": "Important Notes",
+    "source": "Test Results",
+    "text_length": 230,
+    "chunk_index": 72
+  },
+  {
+    "id": 73,
+    "title": "When to Be Concerned",
+    "source": "Test Results",
+    "text_length": 200,
+    "chunk_index": 73
+  },
+  {
+    "id": 74,
+    "title": "Common Imaging Tests",
+    "source": "Test Results",
+    "text_length": 23,
+    "chunk_index": 74
+  },
+  {
+    "id": 75,
+    "title": "X-rays",
+    "source": "Test Results",
+    "text_length": 174,
+    "chunk_index": 75
+  },
+  {
+    "id": 76,
+    "title": "CT Scans",
+    "source": "Test Results",
+    "text_length": 189,
+    "chunk_index": 76
+  },
+  {
+    "id": 77,
+    "title": "MRI",
+    "source": "Test Results",
+    "text_length": 171,
+    "chunk_index": 77
+  },
+  {
+    "id": 78,
+    "title": "Ultrasound",
+    "source": "Test Results",
+    "text_length": 177,
+    "chunk_index": 78
+  },
+  {
+    "id": 79,
+    "title": "Questions to Ask About Results",
+    "source": "Test Results",
+    "text_length": 33,
+    "chunk_index": 79
+  },
+  {
+    "id": 80,
+    "title": "Understanding Your Results",
+    "source": "Test Results",
+    "text_length": 206,
+    "chunk_index": 80
+  },
+  {
+    "id": 81,
+    "title": "Next Steps",
+    "source": "Test Results",
+    "text_length": 187,
+    "chunk_index": 81
+  },
+  {
+    "id": 82,
+    "title": "Concerning Results",
+    "source": "Test Results",
+    "text_length": 172,
+    "chunk_index": 82
+  },
+  {
+    "id": 83,
+    "title": "Getting Your Results",
+    "source": "Test Results",
+    "text_length": 23,
+    "chunk_index": 83
+  },
+  {
+    "id": 84,
+    "title": "How Results Are Shared",
+    "source": "Test Results",
+    "text_length": 160,
+    "chunk_index": 84
+  },
+  {
+    "id": 85,
+    "title": "Timing Expectations",
+    "source": "Test Results",
+    "text_length": 163,
+    "chunk_index": 85
+  },
+  {
+    "id": 86,
+    "title": "Red Flags - When to Call Immediately",
+    "source": "Test Results",
+    "text_length": 39,
+    "chunk_index": 86
+  },
+  {
+    "id": 87,
+    "title": "Blood Test Red Flags",
+    "source": "Test Results",
+    "text_length": 143,
+    "chunk_index": 87
+  },
+  {
+    "id": 88,
+    "title": "Imaging Red Flags",
+    "source": "Test Results",
+    "text_length": 185,
+    "chunk_index": 88
+  },
+  {
+    "id": 89,
+    "title": "Tips for Better Understanding",
+    "source": "Test Results",
+    "text_length": 32,
+    "chunk_index": 89
+  },
+  {
+    "id": 90,
+    "title": "Before Getting Results",
+    "source": "Test Results",
+    "text_length": 177,
+    "chunk_index": 90
+  },
+  {
+    "id": 91,
+    "title": "When You Get Results",
+    "source": "Test Results",
+    "text_length": 172,
+    "chunk_index": 91
+  },
+  {
+    "id": 92,
+    "title": "Follow-Up",
+    "source": "Test Results",
+    "text_length": 247,
+    "chunk_index": 92
+  },
+  {
+    "id": 93,
+    "title": "Understanding Type 2 Diabetes",
+    "source": "Diabetes",
+    "text_length": 31,
+    "chunk_index": 93
+  },
+  {
+    "id": 94,
+    "title": "What is Type 2 Diabetes?",
+    "source": "Diabetes",
+    "text_length": 255,
+    "chunk_index": 94
+  },
+  {
+    "id": 95,
+    "title": "Early Warning Signs",
+    "source": "Diabetes",
+    "text_length": 201,
+    "chunk_index": 95
+  },
+  {
+    "id": 96,
+    "title": "Risk Factors",
+    "source": "Diabetes",
+    "text_length": 202,
+    "chunk_index": 96
+  },
+  {
+    "id": 97,
+    "title": "Diagnosis",
+    "source": "Diabetes",
+    "text_length": 226,
+    "chunk_index": 97
+  },
+  {
+    "id": 98,
+    "title": "Treatment Options",
+    "source": "Diabetes",
+    "text_length": 20,
+    "chunk_index": 98
+  },
+  {
+    "id": 99,
+    "title": "Lifestyle Changes",
+    "source": "Diabetes",
+    "text_length": 194,
+    "chunk_index": 99
+  },
+  {
+    "id": 100,
+    "title": "Medications",
+    "source": "Diabetes",
+    "text_length": 142,
+    "chunk_index": 100
+  },
+  {
+    "id": 101,
+    "title": "Questions to Ask Your Doctor",
+    "source": "Diabetes",
+    "text_length": 309,
+    "chunk_index": 101
+  },
+  {
+    "id": 102,
+    "title": "Complications to Monitor",
+    "source": "Diabetes",
+    "text_length": 178,
+    "chunk_index": 102
+  },
+  {
+    "id": 103,
+    "title": "Prevention",
+    "source": "Diabetes",
+    "text_length": 268,
+    "chunk_index": 103
+  },
+  {
+    "id": 104,
+    "title": "Finding the Right Specialist",
+    "source": "Specialist Referral",
+    "text_length": 30,
+    "chunk_index": 104
+  },
+  {
+    "id": 105,
+    "title": "When to See a Specialist",
+    "source": "Specialist Referral",
+    "text_length": 27,
+    "chunk_index": 105
+  },
+  {
+    "id": 106,
+    "title": "Common Reasons for Referrals",
+    "source": "Specialist Referral",
+    "text_length": 333,
+    "chunk_index": 106
+  },
+  {
+    "id": 107,
+    "title": "Signs You Might Need a Specialist",
+    "source": "Specialist Referral",
+    "text_length": 253,
+    "chunk_index": 107
+  },
+  {
+    "id": 108,
+    "title": "Types of Specialists",
+    "source": "Specialist Referral",
+    "text_length": 23,
+    "chunk_index": 108
+  },
+  {
+    "id": 109,
+    "title": "Internal Medicine Specialists",
+    "source": "Specialist Referral",
+    "text_length": 344,
+    "chunk_index": 109
+  },
+  {
+    "id": 110,
+    "title": "Surgical Specialists",
+    "source": "Specialist Referral",
+    "text_length": 292,
+    "chunk_index": 110
+  },
+  {
+    "id": 111,
+    "title": "Other Specialists",
+    "source": "Specialist Referral",
+    "text_length": 351,
+    "chunk_index": 111
+  },
+  {
+    "id": 112,
+    "title": "How to Find the Right Specialist",
+    "source": "Specialist Referral",
+    "text_length": 35,
+    "chunk_index": 112
+  },
+  {
+    "id": 113,
+    "title": "Getting a Referral",
+    "source": "Specialist Referral",
+    "text_length": 288,
+    "chunk_index": 113
+  },
+  {
+    "id": 114,
+    "title": "Researching Specialists",
+    "source": "Specialist Referral",
+    "text_length": 344,
+    "chunk_index": 114
+  },
+  {
+    "id": 115,
+    "title": "Insurance Considerations",
+    "source": "Specialist Referral",
+    "text_length": 258,
+    "chunk_index": 115
+  },
+  {
+    "id": 116,
+    "title": "Preparing for Your Specialist Visit",
+    "source": "Specialist Referral",
+    "text_length": 38,
+    "chunk_index": 116
+  },
+  {
+    "id": 117,
+    "title": "Before the Appointment",
+    "source": "Specialist Referral",
+    "text_length": 293,
+    "chunk_index": 117
+  },
+  {
+    "id": 118,
+    "title": "What to Expect",
+    "source": "Specialist Referral",
+    "text_length": 317,
+    "chunk_index": 118
+  },
+  {
+    "id": 119,
+    "title": "Questions to Ask Your Specialist",
+    "source": "Specialist Referral",
+    "text_length": 35,
+    "chunk_index": 119
+  },
+  {
+    "id": 120,
+    "title": "About Your Condition",
+    "source": "Specialist Referral",
+    "text_length": 185,
+    "chunk_index": 120
+  },
+  {
+    "id": 121,
+    "title": "About Treatment",
+    "source": "Specialist Referral",
+    "text_length": 203,
+    "chunk_index": 121
+  },
+  {
+    "id": 122,
+    "title": "About Follow-up Care",
+    "source": "Specialist Referral",
+    "text_length": 190,
+    "chunk_index": 122
+  },
+  {
+    "id": 123,
+    "title": "Managing Multiple Specialists",
+    "source": "Specialist Referral",
+    "text_length": 32,
+    "chunk_index": 123
+  },
+  {
+    "id": 124,
+    "title": "Coordination of Care",
+    "source": "Specialist Referral",
+    "text_length": 241,
+    "chunk_index": 124
+  },
+  {
+    "id": 125,
+    "title": "Tips for Success",
+    "source": "Specialist Referral",
+    "text_length": 253,
+    "chunk_index": 125
+  },
+  {
+    "id": 126,
+    "title": "Second Opinions",
+    "source": "Specialist Referral",
+    "text_length": 18,
+    "chunk_index": 126
+  },
+  {
+    "id": 127,
+    "title": "When to Seek a Second Opinion",
+    "source": "Specialist Referral",
+    "text_length": 335,
+    "chunk_index": 127
+  },
+  {
+    "id": 128,
+    "title": "How to Get a Second Opinion",
+    "source": "Specialist Referral",
+    "text_length": 339,
+    "chunk_index": 128
+  },
+  {
+    "id": 129,
+    "title": "Cost Considerations",
+    "source": "Specialist Referral",
+    "text_length": 22,
+    "chunk_index": 129
+  },
+  {
+    "id": 130,
+    "title": "Understanding Costs",
+    "source": "Specialist Referral",
+    "text_length": 266,
+    "chunk_index": 130
+  },
+  {
+    "id": 131,
+    "title": "Managing Costs",
+    "source": "Specialist Referral",
+    "text_length": 239,
+    "chunk_index": 131
+  },
+  {
+    "id": 132,
+    "title": "Building a Good Relationship",
+    "source": "Specialist Referral",
+    "text_length": 31,
+    "chunk_index": 132
+  },
+  {
+    "id": 133,
+    "title": "Communication",
+    "source": "Specialist Referral",
+    "text_length": 240,
+    "chunk_index": 133
+  },
+  {
+    "id": 134,
+    "title": "Trust and Comfort",
+    "source": "Specialist Referral",
+    "text_length": 393,
+    "chunk_index": 134
+  },
+  {
+    "id": 135,
+    "title": "Managing Your Medications Safely",
+    "source": "Medication Management",
+    "text_length": 34,
+    "chunk_index": 135
+  },
+  {
+    "id": 136,
+    "title": "Understanding Your Medications",
+    "source": "Medication Management",
+    "text_length": 33,
+    "chunk_index": 136
+  },
+  {
+    "id": 137,
+    "title": "Key Information to Know",
+    "source": "Medication Management",
+    "text_length": 301,
+    "chunk_index": 137
+  },
+  {
+    "id": 138,
+    "title": "Types of Medications",
+    "source": "Medication Management",
+    "text_length": 253,
+    "chunk_index": 138
+  },
+  {
+    "id": 139,
+    "title": "Safe Medication Practices",
+    "source": "Medication Management",
+    "text_length": 28,
+    "chunk_index": 139
+  },
+  {
+    "id": 140,
+    "title": "Taking Medications Correctly",
+    "source": "Medication Management",
+    "text_length": 334,
+    "chunk_index": 140
+  },
+  {
+    "id": 141,
+    "title": "Storage Guidelines",
+    "source": "Medication Management",
+    "text_length": 306,
+    "chunk_index": 141
+  },
+  {
+    "id": 142,
+    "title": "Managing Multiple Medications",
+    "source": "Medication Management",
+    "text_length": 32,
+    "chunk_index": 142
+  },
+  {
+    "id": 143,
+    "title": "Medication List",
+    "source": "Medication Management",
+    "text_length": 220,
+    "chunk_index": 143
+  },
+  {
+    "id": 144,
+    "title": "Pill Organizers",
+    "source": "Medication Management",
+    "text_length": 247,
+    "chunk_index": 144
+  },
+  {
+    "id": 145,
+    "title": "Avoiding Interactions",
+    "source": "Medication Management",
+    "text_length": 290,
+    "chunk_index": 145
+  },
+  {
+    "id": 146,
+    "title": "Common Medication Problems",
+    "source": "Medication Management",
+    "text_length": 29,
+    "chunk_index": 146
+  },
+  {
+    "id": 147,
+    "title": "Side Effects",
+    "source": "Medication Management",
+    "text_length": 264,
+    "chunk_index": 147
+  },
+  {
+    "id": 148,
+    "title": "Medication Errors",
+    "source": "Medication Management",
+    "text_length": 230,
+    "chunk_index": 148
+  },
+  {
+    "id": 149,
+    "title": "Cost Concerns",
+    "source": "Medication Management",
+    "text_length": 297,
+    "chunk_index": 149
+  },
+  {
+    "id": 150,
+    "title": "Questions to Ask Your Doctor",
+    "source": "Medication Management",
+    "text_length": 31,
+    "chunk_index": 150
+  },
+  {
+    "id": 151,
+    "title": "Before Starting a New Medication",
+    "source": "Medication Management",
+    "text_length": 231,
+    "chunk_index": 151
+  },
+  {
+    "id": 152,
+    "title": "About Current Medications",
+    "source": "Medication Management",
+    "text_length": 186,
+    "chunk_index": 152
+  },
+  {
+    "id": 153,
+    "title": "Safety Questions",
+    "source": "Medication Management",
+    "text_length": 195,
+    "chunk_index": 153
+  },
+  {
+    "id": 154,
+    "title": "Special Considerations",
+    "source": "Medication Management",
+    "text_length": 25,
+    "chunk_index": 154
+  },
+  {
+    "id": 155,
+    "title": "Older Adults",
+    "source": "Medication Management",
+    "text_length": 258,
+    "chunk_index": 155
+  },
+  {
+    "id": 156,
+    "title": "Chronic Conditions",
+    "source": "Medication Management",
+    "text_length": 259,
+    "chunk_index": 156
+  },
+  {
+    "id": 157,
+    "title": "Emergency Situations",
+    "source": "Medication Management",
+    "text_length": 261,
+    "chunk_index": 157
+  },
+  {
+    "id": 158,
+    "title": "Technology and Tools",
+    "source": "Medication Management",
+    "text_length": 23,
+    "chunk_index": 158
+  },
+  {
+    "id": 159,
+    "title": "Medication Apps",
+    "source": "Medication Management",
+    "text_length": 250,
+    "chunk_index": 159
+  },
+  {
+    "id": 160,
+    "title": "Smart Devices",
+    "source": "Medication Management",
+    "text_length": 265,
+    "chunk_index": 160
+  },
+  {
+    "id": 161,
+    "title": "When to Seek Help",
+    "source": "Medication Management",
+    "text_length": 20,
+    "chunk_index": 161
+  },
+  {
+    "id": 162,
+    "title": "Call Your Doctor If",
+    "source": "Medication Management",
+    "text_length": 205,
+    "chunk_index": 162
+  },
+  {
+    "id": 163,
+    "title": "Seek Emergency Care For",
+    "source": "Medication Management",
+    "text_length": 245,
+    "chunk_index": 163
+  },
+  {
+    "id": 164,
+    "title": "Resources",
+    "source": "Medication Management",
+    "text_length": 12,
+    "chunk_index": 164
+  },
+  {
+    "id": 165,
+    "title": "Pharmacist",
+    "source": "Medication Management",
+    "text_length": 133,
+    "chunk_index": 165
+  },
+  {
+    "id": 166,
+    "title": "Patient Assistance Programs",
+    "source": "Medication Management",
+    "text_length": 272,
+    "chunk_index": 166
+  }
+]
